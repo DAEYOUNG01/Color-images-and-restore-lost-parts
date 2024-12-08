@@ -18,12 +18,13 @@
 ## DACON 대회 배경 및 소개 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" />
+  <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" width="500" />
 </p>
 
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c" />
+  <img src="https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c" width="400" />
 </p>
+
 
 ## **이미지 색상화(Image Colorization)**
 
