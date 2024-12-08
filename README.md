@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c)
+<img src ="https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c" />
 </p>
 
 **이미지 색상화(Image Colorization)**
