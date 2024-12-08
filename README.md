@@ -21,9 +21,9 @@
   <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" />
 </p>
 
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c)
-
+</p>
 
 **이미지 색상화(Image Colorization)**
 이미지 색상화는 흑백 또는 단색 이미지에 각 픽셀의 절적한 색상을 예측하여 완전한 컬러 이미지로 변환하는 작업
