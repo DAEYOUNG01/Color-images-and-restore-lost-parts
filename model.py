@@ -114,7 +114,7 @@ optimizer_D = optim.AdamW(discriminator.parameters(), lr=0.0001, betas=(0.5, 0.9
 train_dataset = ImageDataset("/home/work/Dacon_Dataset/train_input", "/home/work/Dacon_Dataset/train_gt")
 train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, num_workers=1, pin_memory=True)
 
-epochs = 100
+epochs = 50
 result_dir = "/home/work/Dacon_Dataset/result"
 os.makedirs(result_dir, exist_ok=True)
 checkpoint_path = "/home/work/Dacon_Dataset/checkpoint.pth"
