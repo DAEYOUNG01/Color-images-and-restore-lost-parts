@@ -1,7 +1,7 @@
 # 이미지 색상화 및 손실 부분 복원 (Image Colorization and Inpainting)
  --- 
 ![image](https://github.com/user-attachments/assets/30e58ea3-5115-41d9-80c5-9ea425285c45)
-
+* DACON 2등 Private 점수 
  
 
 # **CONTENST**
