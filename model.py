@@ -1,6 +1,3 @@
-# 모델 내용 
-# 각종 함수 및 파라미터 
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -113,20 +110,6 @@ pixel_loss = nn.MSELoss()
 
 optimizer_G = optim.AdamW(generator.parameters(), lr=0.0001, betas=(0.5, 0.999))
 optimizer_D = optim.AdamW(discriminator.parameters(), lr=0.0001, betas=(0.5, 0.999))
-
-# 체크포인트 로드 (있으면 이어서 학습)
-start_epoch = 48
-if os.path.exists(checkpoint_path):
-    print(f"Checkpoint found at {checkpoint_path}. Loading checkpoint...")
-    checkpoint = torch.load(checkpoint_path, map_location=device)
-    generator.load_state_dict(checkpoint['generator_state_dict'])
-    discriminator.load_state_dict(checkpoint['discriminator_state_dict'])
-    optimizer_G.load_state_dict(checkpoint['optimizer_G_state_dict'])
-    optimizer_D.load_state_dict(checkpoint['optimizer_D_state_dict'])
-    start_epoch = checkpoint['epoch'] + 1
-    print(f"Resuming training from epoch {start_epoch}.")
-else:
-    print("No checkpoint found. Starting training from scratch.")
 
 train_dataset = ImageDataset("/home/work/Dacon_Dataset/train_input", "/home/work/Dacon_Dataset/train_gt")
 train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, num_workers=1, pin_memory=True)
