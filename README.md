@@ -1,8 +1,8 @@
 # 이미지 색상화 및 손실 부분 복원 (Image Colorization and Inpainting)
  --- 
+ ### DACON 2등 Private 점수 - 수상
 ![image](https://github.com/user-attachments/assets/30e58ea3-5115-41d9-80c5-9ea425285c45)
-* DACON 2등 Private 점수 
- 
+
 
 # **CONTENST**
 
@@ -18,13 +18,10 @@
 
 ## DACON 대회 배경 및 소개 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" width="860", height="480" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c" width="860", height="480" />
-</p>
+<div align="center" style="height: 100vh;">
+  <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" width="500" height="480" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/2b855d05-3e12-4909-b3c2-35fa2c15a49c" width="500" height="480" style="margin-left: 10px" />
+</div>
 
 
 # **이미지 색상화(Image Colorization)**
@@ -102,13 +99,17 @@
 ---
 
 
-# **DACON 이미지 색상화 및 손시 부분 복원 규칙** : 전체적인 규칙 소개 
+# **DACON 이미지 색상화 및 손상 부분 복원 규칙**
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4127315-6e41-495a-b9e1-e19eebc9aab2" width="480", height="480" />
-  <img src="https://github.com/user-attachments/assets/603c460b-0b0b-4231-81bb-5b0feadbd7cf" width="480", height="480" />
-</p>
+<div align="center" style="height: 100vh;">
+  <img src="https://github.com/user-attachments/assets/4bf0263c-3d80-445a-9190-bd45346b4c03" alt="Train 1" width="500" height="400" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/a933c7a9-d142-4a5b-ab4a-0e57349f6e22" alt="Test 1" width="500" height="400" style="margin-left: 10px;">
+</div>
+
+
+
+---
 
 
 # **모델 선정 이유 및 설명** : 모델 선정 배경 및 설명
@@ -157,12 +158,18 @@
     Adversarial Loss 제공: Generator가 더 사실적인 이미지를 생성하도록 유도
 
 
-
-
-
    # **결과**
 
-| Image 1 | Image 2 |
+| Train 1 | Test 1 |
 |---------|---------|
-| ![TEST_input_002](https://github.com/user-attachments/assets/0400951f-4775-4440-b655-6633be2f9a0b) | ![TEST_002](https://github.com/user-attachments/assets/0cf55049-014f-4bfc-878c-3fba1eb40c58) |
+| <img src="https://github.com/user-attachments/assets/0400951f-4775-4440-b655-6633be2f9a0b" width="550" height="420" /> | <img src="https://github.com/user-attachments/assets/0cf55049-014f-4bfc-878c-3fba1eb40c58" width="550" height="420" /> |
 
+
+| Train 2 | Test 2 |
+|---------|---------|
+| <img src="https://github.com/user-attachments/assets/ca8f5b23-e90e-462f-8be1-8bafaf4f2776" width="550" height="420" /> | <img src="https://github.com/user-attachments/assets/a1c4146d-1b59-4082-bc59-ec91ee4c25ff" width="550" height="420" /> |
+
+
+| Train 3 | Test 3 |
+|---------|---------|
+| <img src="https://github.com/user-attachments/assets/4ebbc4ad-8e75-4811-b39b-c7aeac0ea978" width="550" height="420" /> | <img src="https://github.com/user-attachments/assets/45c0ad64-61ef-4e94-963e-e33d90d667b7" width="550" height="420" /> |
