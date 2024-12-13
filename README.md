@@ -162,6 +162,5 @@
    # **결과**
 
 
-   ![TRAIN_00002](https://github.com/user-attachments/assets/ef8b451e-0b47-4c75-a7bd-17f17d1c1a03)
-   ![TEST_002](https://github.com/user-attachments/assets/a64400d6-8bd7-42ce-b8da-b0630ae9736a)
+   ![TRAIN_00002](https://github.com/user-attachments/assets/ef8b451e-0b47-4c75-a7bd-17f17d1c1a03) ![TEST_002](https://github.com/user-attachments/assets/a64400d6-8bd7-42ce-b8da-b0630ae9736a)
 
