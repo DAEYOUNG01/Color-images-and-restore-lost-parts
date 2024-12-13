@@ -106,8 +106,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4127315-6e41-495a-b9e1-e19eebc9aab2" width="480", height="400" />
-  <img src="https://github.com/user-attachments/assets/603c460b-0b0b-4231-81bb-5b0feadbd7cf" width="480", height="400" />
+  <img src="https://github.com/user-attachments/assets/f4127315-6e41-495a-b9e1-e19eebc9aab2" width="480", height="300" />
+  <img src="https://github.com/user-attachments/assets/603c460b-0b0b-4231-81bb-5b0feadbd7cf" width="480", height="300" />
 </p>
 
 
