@@ -159,8 +159,10 @@
 
 
 
+
    # **결과**
 
-
-   ![TRAIN_00002](https://github.com/user-attachments/assets/ef8b451e-0b47-4c75-a7bd-17f17d1c1a03) ![TEST_002](https://github.com/user-attachments/assets/a64400d6-8bd7-42ce-b8da-b0630ae9736a)
+| Image 1 | Image 2 |
+|---------|---------|
+| ![TEST_input_002](https://github.com/user-attachments/assets/0400951f-4775-4440-b655-6633be2f9a0b) | ![TEST_002](https://github.com/user-attachments/assets/0cf55049-014f-4bfc-878c-3fba1eb40c58) |
 
