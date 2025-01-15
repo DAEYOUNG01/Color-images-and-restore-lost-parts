@@ -3,6 +3,11 @@
  ### DACON 2등 Private 점수 - 수상
 ![image](https://github.com/user-attachments/assets/30e58ea3-5115-41d9-80c5-9ea425285c45)
 
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/e077310e-5923-474c-914c-0b8a520a4dc0" height="480" />
+</p>
+
+---
 
 # **CONTENST**
 
