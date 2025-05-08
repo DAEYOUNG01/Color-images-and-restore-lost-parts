@@ -22,8 +22,9 @@
   
 * **모델 선정 이유 및 설명** : 모델 선정 배경 및 설명
 
+---
 
-## DACON 대회 배경 및 소개 
+# DACON 대회 배경 및 소개 
 
 <div align="center" style="height: 100vh;">
   <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" width="500" height="480" style="margin-right: 10px;" />
